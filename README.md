@@ -6,7 +6,7 @@ A repository to practice creating a website using Python and Flask.
 
 
 ## Introduction: Flask Tutorial
-*How do you take any Python function, and create a web interface for it?*
+**How do you take any Python function, and create a web interface for it?**
 
 First, I will be following the tutorial on [Arya Boudaie's Personal Site](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
@@ -26,7 +26,7 @@ First, I will be following the tutorial on [Arya Boudaie's Personal Site](https:
 *HTML will enable you to create nice-looking pages*
 
 ### HTML String
-'html = "<h1> The square of " + num + " is " + num ** 2'
+'html = "< h1 > The square of " + num + " is " + num ** 2'
 > You can write in HTML to present information on the screen more elegantly.
 
 ### Junja2
